@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Nginx 服务器的安装与配置]]></title>
-    <url>%2F2019%2F03%2F25%2Fnginx-install-quickstart.html</url>
-    <content type="text"><![CDATA[pre]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Nginx 服务器的安装与配置</title>
+      <link href="/2019/03/25/nginx-install-quickstart.html"/>
+      <url>/2019/03/25/nginx-install-quickstart.html</url>
+      
+        <content type="html"><![CDATA[<p>pre</p>]]></content>
+      
+      
       <categories>
-        <category>基础设施</category>
+          
+          <category> 基础设施 </category>
+          
       </categories>
-      <tags>
-        <tag>Nginx</tag>
-        <tag>quickstart</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> Nginx </tag>
+            
+            <tag> quickstart </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
